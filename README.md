@@ -1,2 +1,2 @@
-# Lead-Scoring-EdTech-
+# Lead-Scoring-EdTech
 dd
